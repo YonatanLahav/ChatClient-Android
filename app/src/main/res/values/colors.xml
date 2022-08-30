@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#3F51B5</color>
+    <color name="purple_500">#009688</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ApiContactBackground">#878787</color>
+    <color name="sentMessage">#C1FFB6</color>
+    <color name="sentMessage_night">#284E22</color>
+
+    <color name="recivedMessage">#74EAFF</color>
+    <color name="recivedMessage_night">#3A7883</color>
+
+    <color name="clicked">#838383</color>
+</resources>

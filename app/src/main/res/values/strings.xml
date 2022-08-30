@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="etUsername">Username</string>
+    <string name="etPassword">Password</string>
+    <string name="btnToRegister">To Register !</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnUploadImage">Upload Image</string>
+    <string name="tvLoginTitle">ChatApp Login</string>
+    <string name="etVerPassword">Verify Password</string>
+    <string name="etNickname">Nickname</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnToLogin">To Login !</string>
+    <string name="tvRegisterTitle">ChatApp Register</string>
+    <string name="to_login">To Login</string>
+    <string name="to_register">To Register</string>
+    <string name="to_contacts_list">To Contacts List</string>
+    <string name="very_long_string">hello world !hello world !hello world !hello world !hello world !hello world !hello world !hello world !hello world !hello world !hello world !hello world !hello world !hello world !hello world !hello world !</string>
+    <string name="time">Time</string>
+    <string name="name">Name</string>
+    <string name="to_chat_screen">To Chat Screen</string>
+    <string name="BaseUrl">"http://10.0.2.2:7182/"</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="server">Server</string>
+    <string name="nickname">Nickname</string>
+    <string name="username">Username</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="to_add_contact_screen">To Add Contact Screen</string>
+    <string name="serverPath">10.0.2.2:7182</string>
+    <string name="write_something">Write your message...</string>
+    <string name="send">Send</string>
+</resources>
